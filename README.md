@@ -4,7 +4,7 @@ Now that I getting more and more knowledge with Web development I decided to app
 <br>
 Let's go!
 
-(Updated branch)
+(Updated branch!)
 # 1st attempt: Inlet pixi and React 17 downgrade
 <h2>I tried to use <a href="https://blog.logrocket.com/getting-started-pixijs-react-create-canvas/">this guide</a> but no luck so far, many errors.</h2>
 
