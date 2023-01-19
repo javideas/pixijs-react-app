@@ -4,13 +4,16 @@ Now that I getting more and more knowledge with Web development I decided to app
 <br>
 Let's go!
 
-(Updated branch!)
+
+# 2nd working attempt: using saitonakamura/react-pixi and React 18
+So far is working the basic "canvas" creation and React components and elements.
+
 # 1st attempt: Inlet pixi and React 17 downgrade
 I tried to use <a href="https://blog.logrocket.com/getting-started-pixijs-react-create-canvas/">this guide</a> but no luck so far, many errors.
 
 
-(Shh, before using "Create Reac App", have in mind that <a href="https://overreacted.io/npm-audit-broken-by-design/">npm audit "is broken by design"</a>)
 # Getting Started with Create React App
+(Shh, before using "Create Reac App", have in mind that <a href="https://overreacted.io/npm-audit-broken-by-design/">npm audit "is broken by design"</a>)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
