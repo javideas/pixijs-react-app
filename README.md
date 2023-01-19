@@ -6,7 +6,7 @@ Let's go!
 
 (Updated branch!)
 # 1st attempt: Inlet pixi and React 17 downgrade
-<h2>I tried to use <a href="https://blog.logrocket.com/getting-started-pixijs-react-create-canvas/">this guide</a> but no luck so far, many errors.</h2>
+I tried to use <a href="https://blog.logrocket.com/getting-started-pixijs-react-create-canvas/">this guide</a> but no luck so far, many errors.
 
 
 (Shh, before using "Create Reac App", have in mind that <a href="https://overreacted.io/npm-audit-broken-by-design/">npm audit "is broken by design"</a>)
