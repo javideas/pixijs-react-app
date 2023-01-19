@@ -1,3 +1,15 @@
+# Welcome to my journey with PIXI.js and React
+
+Now that I getting more and more knowledge with Web development I decided to approach game development for web, using Pixi.js and React.
+<br>
+Let's go!
+
+
+# 1st attempt: Inlet pixi and React 17 downgrade
+<h2>I tried to use <a href="https://blog.logrocket.com/getting-started-pixijs-react-create-canvas/">this guide</a> but no luck so far, many errors.</h2>
+
+
+(Shh, before using "Create Reac App", have in mind that <a href="https://overreacted.io/npm-audit-broken-by-design/">npm audit "is broken by design"</a>)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
